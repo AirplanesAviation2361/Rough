@@ -1,5 +1,5 @@
 # Rough
-anyways, want to get the exclusive 787-8 tui livery, the 787-8 in geofs is not supported to livery selector but i found this in the github page anyway, want it, raw it.
+anyways, want to get the exclusive 787-8 liveries, the 787-8 in geofs is not supported to livery selector but i made these pictures anyway, want it, raw it.
 
 steps
 click raw on the image named "tui.png"
