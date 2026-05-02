@@ -49,16 +49,6 @@
                 "Texture Right"
             ]
         },
-        "7": {
-            "name": "Boeing b787-8",
-            "liveries": [
-            ],
-            "labels": [
-                "Texture",
-                "Specular Shader",
-                "Normal map"
-            ]
-        },
         "8": {
             "name": "Pitts Special S1",
             "liveries": [
@@ -177,14 +167,13 @@
             ]
         },
         "31": {
-            "name": "Potez 25",
+            "name": "Boeing b787-9",
             "liveries": [
             ],
             "labels": [
-                "Normal map",
-                "Specular shader",
-                "Texture Left",
-                "Texture Right"
+                "Texture"
+                "Specular Shader"
+                "Normal map
             ]
         },
         "40": {
