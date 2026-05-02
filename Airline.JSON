@@ -56,7 +56,8 @@
             "labels": [
                 "Texture",
                 "Specular Shader",
-                "Normal map"
+            ]   "Normal map"
+        },
         "8": {
             "name": "Pitts Special S1",
             "liveries": [
