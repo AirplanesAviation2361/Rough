@@ -49,6 +49,16 @@
                 "Texture Right"
             ]
         },
+           "7": {
+            "name": "Boeing b787-8",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture",
+                "Specular Shader",
+                "Normal Map" 
+            ]
+        },
         "8": {
             "name": "Pitts Special S1",
             "liveries": [
